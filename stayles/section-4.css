@@ -1,0 +1,63 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.section-4{
+    background: linear-gradient(to right, #C9D1FF, #F9F4BB);
+}
+
+.section-4-main{
+    max-width: 83%;
+    margin: 40px auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+.section-4-main .box{
+    justify-content: center;
+    text-align:start;
+    display: flex;
+    flex-direction: column;
+    width: 49%;
+    height: 500px;
+    margin: 40px 10px 30px 10px;
+    border-radius: 22px;
+    color: white;
+}
+
+.section-4-main .box h1{
+    font-size: 2.125rem;
+    width: 90%;
+    margin: 100px auto 0;
+
+}
+
+.section-4-main .box h1 span{
+    color: #FFE602;
+}
+
+.section-4-main .box p{
+    font-size: 1rem;
+    width: 90%;
+    margin: 10px auto;
+}
+
+
+.section-4-main .box-1 h1{
+    margin-bottom: -5px;
+}
+
+
+.section-4-main .box img{
+    margin-top: auto;
+    border-radius:  0 0 22px 22px;
+}
+
+.section-4-main .box-1{
+    background: linear-gradient(to right, #82A6FD, #1342B4);
+}
+
+.section-4-main .box-2{
+    background: linear-gradient(to right, #8567D9, #2C1371);
+}

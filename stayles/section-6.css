@@ -1,0 +1,56 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.section-4{
+    display: flex;
+    justify-content: center;
+}
+
+.section-6-main{
+    max-width: 83%;
+    margin: 40px auto;
+    background: linear-gradient(to right, #3DA3EA, #66DE87);
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+
+.section-6-main .sc6-r{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.section-6-main .sc6-r h1{
+    font-size: 2.675rem;
+    color: white;
+    width: 85%;
+}
+
+.section-6-main .sc6-r h1 span{
+    color: #082C4D;
+}
+
+.section-6-main .sc6-r p{
+    font-size: 1em;
+    color: white;
+    width: 85%;
+    margin-top: -20px;
+}
+
+.section-6-main .sc6-r .sc6-btn{
+    border: none;
+    color: #04BB00;
+    font-size: 1.15rem;
+    font-weight: 700;
+    border-radius: 66px;
+    padding: 10px 20px;
+}
+
+
+
+
